@@ -1,0 +1,15 @@
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\bin\Debug\net9.0\Membership.exe
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\bin\Debug\net9.0\Membership.deps.json
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\bin\Debug\net9.0\Membership.runtimeconfig.json
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\bin\Debug\net9.0\Membership.dll
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\bin\Debug\net9.0\Membership.pdb
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\Membership.AssemblyInfoInputs.cache
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\Membership.AssemblyInfo.cs
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\Membership.csproj.CoreCompileInputs.cache
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\Membership.sourcelink.json
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\Membership.dll
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\refint\Membership.dll
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\Membership.pdb
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\Membership.genruntimeconfig.cache
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Membership\Membership\obj\Debug\net9.0\ref\Membership.dll

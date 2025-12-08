@@ -1,0 +1,15 @@
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\bin\Debug\net9.0\Employee.exe
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\bin\Debug\net9.0\Employee.deps.json
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\bin\Debug\net9.0\Employee.runtimeconfig.json
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\bin\Debug\net9.0\Employee.dll
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\bin\Debug\net9.0\Employee.pdb
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\Employee.AssemblyInfoInputs.cache
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\Employee.AssemblyInfo.cs
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\Employee.sourcelink.json
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\Employee.dll
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\refint\Employee.dll
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\Employee.pdb
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\Employee.genruntimeconfig.cache
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Employee\Employee\obj\Debug\net9.0\ref\Employee.dll
