@@ -1,0 +1,15 @@
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\bin\Debug\net9.0\Student Record System.exe
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\bin\Debug\net9.0\Student Record System.deps.json
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\bin\Debug\net9.0\Student Record System.runtimeconfig.json
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\bin\Debug\net9.0\Student Record System.dll
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\bin\Debug\net9.0\Student Record System.pdb
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\Student Record System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\Student Record System.AssemblyInfoInputs.cache
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\Student Record System.AssemblyInfo.cs
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\Student Record System.csproj.CoreCompileInputs.cache
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\Student Record System.sourcelink.json
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\Student Record System.dll
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\refint\Student Record System.dll
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\Student Record System.pdb
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\Student Record System.genruntimeconfig.cache
+C:\Users\Rumi\Documents\developer\oop2-fall-2025-26\Lab\Student Record System\Student Record System\obj\Debug\net9.0\ref\Student Record System.dll
