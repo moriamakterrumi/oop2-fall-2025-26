@@ -1,35 +1,41 @@
-﻿using System;
+﻿using Delegate;
 
-namespace DelegateAsParameterDemo
+namespace Delegate
 {
- 
     public delegate int Operation(int a, int b);
+}
 
-    class Program
+class Program
+{
+    static int add(int a, int b)
     {
-       
-        static int Add(int x, int y)
-        {
-            return x + y;
-        }
-
-        static int Subtract(int x, int y)
-        {
-            return x - y;
-        }
-
-    
-        static void Calculate(int a, int b, Operation op)
-        {
-            int result = op(a, b);  
-            Console.WriteLine("Result: " + result);
-        }
-
-        static void Main(string[] args)
-        {
-           
-            Calculate(5, 3, Add);
-            Calculate(5, 3, Subtract);
-        }
+        return a + b;
     }
+    static int sub(int a, int b)
+    {
+        return a - b;
+    }
+    static int mul(int a, int b)
+    {
+        return a * b;
+    }
+    static int div(int a, int b)
+    {
+        return a / b;
+    }
+
+    static void Calculate(int a, int b, Operation op)
+    {
+        int result = op(a, b);
+        Console.WriteLine("Result is: " + result);
+    }
+
+    static void Main(string[] args)
+    {
+        Calculate(5,10, add);
+        Calculate(20, 2, sub);
+        Calculate(2, 4, mul);
+        Calculate(25, 5, div);
+    }
+
 }
